@@ -1,8 +1,8 @@
-public class cake {
+public class Cake {
 	private int bites = 10;
 	
-	public cake() {
-		// FIXE ME ??
+	public Cake() {
+		// nothing to implement
 	}
 	
 	public void takeABite() {
@@ -14,4 +14,6 @@ public class cake {
 		return bites == 0;
 		// looks like an empty cake;
 	}
+	
+	
 }
